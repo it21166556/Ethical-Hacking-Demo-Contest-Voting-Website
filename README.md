@@ -1,4 +1,4 @@
-# Ethical Hacking Demo Contest Voting Website
+# Secure Voting Website Demo
 <br>
 <p>
   This project aims to educate developers, software engineers, and website owners about the importance of secure web development practices. It includes a demonstration of a common vulnerability found in a contest voting website, along with guidelines on responsible disclosure and how to mitigate such issues. The project's primary goal is to promote ethical hacking and encourage a proactive approach towards building robust and secure websites. Remember, knowledge is power, and by understanding and addressing potential loopholes, we can collectively create a safer online environment for all users.
